@@ -18,6 +18,9 @@ print(str4.strip())
 print(str4.lstrip())
 
 print(str4.rstrip())
+print("im from indian dev team and i will be doing re-coding..")
+
+
 
 
 
